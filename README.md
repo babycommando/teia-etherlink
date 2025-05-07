@@ -1,6 +1,6 @@
 ## Teia @ Etherlink
 
-This is a proof of concept migration of the Teia smart contracts with the swapping experience, wich consists of letting the smart contract hold the tokens to operate them on behalf of the author/seller and collecting royalties in the process.
+This is a proof-of-concept migration of the Teia smart contracts, showcasing a seamless swapping experience where the contract securely holds tokens on behalf of creators and sellers, facilitating transactions while automatically distributing royalties.
 
 The repository contains the refactored Teia smart contracts for Solidity, and the user interface to test it.
 
