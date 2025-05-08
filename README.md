@@ -77,7 +77,7 @@ Log in with the wallet you set as administrator on the contract, and call the fu
 
 ## 4. Minting / Swapping / Buying NFTs
 
-With the minting rights granted, you can not start playing with the contracts. Proceed to the app's homepage at [http://localhost:8080](http://localhost:8080).
+With the minting rights granted, you can now start playing with the contracts. Proceed to the app's homepage at [http://localhost:8080](http://localhost:8080).
 
 The process is divided into 5 steps:
 
